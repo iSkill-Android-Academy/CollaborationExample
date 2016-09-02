@@ -10,4 +10,6 @@
 
     <!--Tomas: here I added this; 2/9/2016 -->
     <string name="tomas_button_try_push">Just a try</string>
+    <string name="tomas_string_1">String 1</string>
+    <string name="tomas_string_2">String 2</string>
 </resources>
