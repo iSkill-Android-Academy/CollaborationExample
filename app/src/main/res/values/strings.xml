@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Collaboration Example</string>
+    <string name="greeting_message">Welcome to the app!</string>
+
+    <string name="button_eric">Eric\'s Button</string>
+    <string name="button_christina">Christina\'s Button</string>
+    <string name="button_gerard">Ger\'s Button</string>
+    <string name="button_tomas">Tom\'s Button</string>
+    <string name="button_josh">Josh\'s Button</string>
 </resources>
