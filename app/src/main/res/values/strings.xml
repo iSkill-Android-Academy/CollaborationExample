@@ -8,5 +8,6 @@
     <string name="button_tomas">Tom\'s Button</string>
     <string name="button_josh">Josh\'s Button</string>
 
+    <!--Tomas: here I added this; 2/9/2016 -->
     <string name="tomas_button_try_push">Just a try</string>
 </resources>
