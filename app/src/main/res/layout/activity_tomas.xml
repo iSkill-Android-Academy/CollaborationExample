@@ -26,6 +26,8 @@
                 android:textColor="@color/white"
                 android:textStyle="bold|italic"
                 android:background="@drawable/mission_question_mark"
+                android:gravity="bottom|center"
+
         />
 
             <Button
@@ -35,6 +37,7 @@
                 android:textColor="@color/white"
                 android:textStyle="bold"
                 android:background="@drawable/fill_form"
+                android:gravity="bottom|center"
                 />
 
     </LinearLayout>
