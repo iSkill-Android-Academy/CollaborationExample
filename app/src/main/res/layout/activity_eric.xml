@@ -14,30 +14,22 @@
     android:orientation="vertical"
     android:background="@drawable/back"
     tools:context="ie.iskill.collaborationexample.eric.EricActivity">
-
-    <LinearLayout
+    <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="150px"
+        android:src="@drawable/iprt"
+        />
 
-        <TextView
+
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center"
         android:text="@string/phSmall"
-            android:textSize="30dp"
+        android:gravity="center"
+
 
         />
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="100px"
-
-            android:text="@string/phLarge"
-
-            />
-
-
-        </LinearLayout>
 
 
 
@@ -109,6 +101,7 @@
             android:layout_width="wrap_content"
             android:layout_height="150px"
             android:text="@string/phLarge"
+            android:layout_marginBottom="20px"
 
 
             />
