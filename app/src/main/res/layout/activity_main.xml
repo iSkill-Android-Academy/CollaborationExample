@@ -18,22 +18,32 @@
         android:text="@string/greeting_message" />
 
     <Button
+        android:id="@+id/christina_button"
+        android:onClick="onButtonClick"
         android:text="@string/button_christina"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <Button
+        android:id="@+id/eric_button"
+        android:onClick="onButtonClick"
         android:text="@string/button_eric"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <Button
+        android:id="@+id/ger_button"
+        android:onClick="onButtonClick"
         android:text="@string/button_gerard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <Button
+        android:id="@+id/josh_button"
+        android:onClick="onButtonClick"
         android:text="@string/button_josh"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <Button
+        android:id="@+id/tom_button"
+        android:onClick="onButtonClick"
         android:text="@string/button_tomas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
