@@ -22,6 +22,7 @@ public class JoshActivity extends AppCompatActivity {
     public void onIskillClick(View view){
         goToUrl("http://www.iskill.ie/");
     }
+
     private void goToUrl (String url) {
         Uri uriUrl = Uri.parse(url);
         Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);
